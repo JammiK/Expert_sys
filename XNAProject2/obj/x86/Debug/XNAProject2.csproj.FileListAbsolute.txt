@@ -24,3 +24,6 @@ C:\Users\Vadim\Downloads\XNAProject2\XNAProject2\bin\x86\Debug\Microsoft.Xna.Fra
 C:\Users\Vadim\Downloads\XNAProject2\XNAProject2\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll
 C:\Users\Vadim\Downloads\XNAProject2\XNAProject2\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll
 C:\Users\Vadim\Downloads\XNAProject2\XNAProject2\obj\x86\Debug\XNAProject2.csprojResolveAssemblyReference.cache
+D:\projects\github\Expert_sys\XNAProject2\bin\x86\Debug\XNAProject2.exe.config
+D:\projects\github\Expert_sys\XNAProject2\obj\x86\Debug\XNAProject2.exe
+D:\projects\github\Expert_sys\XNAProject2\obj\x86\Debug\XNAProject2.pdb

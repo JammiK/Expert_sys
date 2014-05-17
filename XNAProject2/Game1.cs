@@ -22,6 +22,7 @@ namespace XNAProject2
         int width=256;
         int height=256;       
         Texture2D pic_texture;
+        int x;
     
         public Game1()
         {
