@@ -1,0 +1,26 @@
+c:\users\developer\documents\visual studio 11\Projects\XNAProject2\XNAProject2\bin\x86\Debug\XNAProject2.exe.config
+c:\users\developer\documents\visual studio 11\Projects\XNAProject2\XNAProject2\bin\x86\Debug\XNAProject2.exe
+c:\users\developer\documents\visual studio 11\Projects\XNAProject2\XNAProject2\bin\x86\Debug\XNAProject2.pdb
+c:\users\developer\documents\visual studio 11\Projects\XNAProject2\XNAProject2\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll
+c:\users\developer\documents\visual studio 11\Projects\XNAProject2\XNAProject2\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+c:\users\developer\documents\visual studio 11\Projects\XNAProject2\XNAProject2\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll
+c:\users\developer\documents\visual studio 11\Projects\XNAProject2\XNAProject2\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+c:\users\developer\documents\visual studio 11\Projects\XNAProject2\XNAProject2\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll
+c:\users\developer\documents\visual studio 11\Projects\XNAProject2\XNAProject2\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll
+c:\users\developer\documents\visual studio 11\Projects\XNAProject2\XNAProject2\obj\x86\Debug\XNAProject2.csprojResolveAssemblyReference.cache
+c:\users\developer\documents\visual studio 11\Projects\XNAProject2\XNAProject2\obj\x86\Debug\XNAProject2.exe
+c:\users\developer\documents\visual studio 11\Projects\XNAProject2\XNAProject2\obj\x86\Debug\XNAProject2.pdb
+c:\users\developer\documents\visual studio 11\Projects\XNAProject2\XNAProject2\bin\x86\Debug\Performer.png
+C:\Users\Vadim\Downloads\XNAProject2\XNAProject2\bin\x86\Debug\XNAProject2.exe.config
+C:\Users\Vadim\Downloads\XNAProject2\XNAProject2\obj\x86\Debug\XNAProject2.exe
+C:\Users\Vadim\Downloads\XNAProject2\XNAProject2\obj\x86\Debug\XNAProject2.pdb
+C:\Users\Vadim\Downloads\XNAProject2\XNAProject2\bin\x86\Debug\Performer.png
+C:\Users\Vadim\Downloads\XNAProject2\XNAProject2\bin\x86\Debug\XNAProject2.exe
+C:\Users\Vadim\Downloads\XNAProject2\XNAProject2\bin\x86\Debug\XNAProject2.pdb
+C:\Users\Vadim\Downloads\XNAProject2\XNAProject2\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll
+C:\Users\Vadim\Downloads\XNAProject2\XNAProject2\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+C:\Users\Vadim\Downloads\XNAProject2\XNAProject2\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll
+C:\Users\Vadim\Downloads\XNAProject2\XNAProject2\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+C:\Users\Vadim\Downloads\XNAProject2\XNAProject2\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll
+C:\Users\Vadim\Downloads\XNAProject2\XNAProject2\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll
+C:\Users\Vadim\Downloads\XNAProject2\XNAProject2\obj\x86\Debug\XNAProject2.csprojResolveAssemblyReference.cache
